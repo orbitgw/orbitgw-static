@@ -12,8 +12,8 @@ A CDN service for hosting commonly used frontend static resources.
 Using Bootstrap 5.3.8:
 
 ```html
-<link rel="stylesheet" href="https://cdn.orbitgw.com/static/bootstrap/5.3.8/css/bootstrap.min.css">
-<script src="https://cdn.orbitgw.com/static/bootstrap/5.3.8/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://static.orbitgw.com/static/bootstrap/5.3.8/css/bootstrap.min.css">
+<script src="https://static.orbitgw.com/static/bootstrap/5.3.8/js/bootstrap.bundle.min.js"></script>
 ```
 
 ## Notice
